@@ -1,0 +1,9 @@
+Con la venia, al amparo de los arts. 287.2 y 452 de la LEC, esta parte interpone recurso de reposición contra la resolución de admisión de la prueba de reproducción de vídeo a la que se contrae el incidente planteado, entendiendo que la admisión de tal prueba vulnera el derecho fundamental del art. 18 de la Constitución, en tanto que, como ya alegamos, la mayor parte de la filmación se produce en el interior de la vivienda de mi representado, con la consecuente vulneración de la intimidad domiciliar que ello supone, y sin que el hecho de haber sido obtenidas dichas imágenes desde el exterior suponga excepción alguna a tal flagrante violación del derecho a la intimidad. Por este motivo, solicitamos se reponga la resolución, declarando la ilicitud de la prueba.
+
+Con la venia, para oponernos al recurso interpuesto, puesto que, como bien ha razonado S.S.ª, el hecho que la filmación se obtuviera desde el exterior, y en los espacios abiertos de la vivienda como son el jardín y la terraza de la primera planta, impiden apreciar la vulneración alegada de contrario, pues se trata de hechos que pudieron ser percibidos por cualquier persona que paseara por la calle, sin que ello constituya intromisión alguna en la intimidad del domicilio.
+
+A la vista de las alegaciones de las partes, desestimo el recurso de reposición interpuesto, al no desvirtuarse los fundamentos de la anterior resolución, siendo cuestión nuclear, para apreciar la no vulneración en la obtención de la prueba, el hecho que se filmaran espacios abiertos y exteriores a lo que constituye la vivienda, fácilmente observables por cualquier persona que transitara por la calle, por lo que la filmación obtenida no incurre en la vulneración alegada.
+
+Esta parte formula su más respetuosa protesta con la decisión adoptada, reservándose el derecho a reproducir esta impugnación en vía de recurso.
+
+========================================================================

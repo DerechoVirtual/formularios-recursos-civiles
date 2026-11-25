@@ -1,0 +1,9 @@
+Con la venia, al amparo de lo dispuesto en el art. 285.2 de la LEC, formulamos recurso de reposición contra la inadmisión de la prueba documental consistente en [DOCUMENTO INADMITIDO; EJEMPLO: contrato privado de compraventa de fecha [FECHA]], por infringir lo dispuesto en el art. 265.3 de la LEC, en tanto que se trata de un documento que tiene como finalidad desvirtuar las alegaciones del demandado, negando su existencia, y atendido que el documento fundamental de nuestra pretensión era [DOCUMENTO FUNDAMENTAL; EJEMPLO: la escritura pública de compraventa] al que este contrato antecede.
+
+En este sentido, la inadmisión ahora decretada contraviene doctrina reiterada del Tribunal Supremo recogida, entre otras, en sentencias de 7 de febrero de 1970 y de 7 de julio de 1995 (rec. 453/1992), en el sentido de que la prohibición del art. 506 de la anterior LEC de 1881, art. 270.1 de la vigente, afecta solo a los documentos que estrictamente son básicos de la pretensión y han de ser presentados in limine litis, en cuanto generan la causa de pedir, pero no concierne a los que, desprovistos de tal significado, se encaminan a combatir las alegaciones de la contraparte, y los que, no siendo fundamentales, interesen a quien los presente, pueden entrar en período probatorio.
+
+Es más, la sentencia del Tribunal Supremo de 20 de septiembre de 2001 (rec. 2113/1996) matiza que, cuando los documentos, además de no ser fundamentales, eran conocidos totalmente por la parte demandada, como es el caso, no se da la mínima posibilidad de sorpresa para la misma, que es el efecto que trata de prevenir el precepto cuya infracción denuncia, por lo que son admisibles.
+
+Por lo expuesto, solicitamos que, con estimación de este recurso de reposición, se admita el citado documento propuesto por esta parte.
+
+[OPCIONAL — si se desestima el recurso] Formulamos protesta a los efectos del art. 285.2 de la LEC y de su reproducción en segunda instancia.

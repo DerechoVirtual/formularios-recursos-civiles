@@ -1,0 +1,29 @@
+{
+  "name": "formularios-recursos-civiles",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Recursos civiles: reposición, apelación, casación y queja · España (145 formularios). Para recurrir en el proceso civil: reposición y revisión contra resoluciones del Letrado de la Administración de Justicia, apelación y oposición o impugnación, casación tras el Real Decreto-ley 5/2023, queja, nulidad de actuaciones, aclaración y complemento de sentencia, y revisión de sentencias firmes. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-recursos-civiles",
+      "source": "./",
+      "description": "Recursos civiles: reposición, apelación, casación y queja · España (145 formularios). Para recurrir en el proceso civil: reposición y revisión contra resoluciones del Letrado de la Administración de Justicia, apelación y oposición o impugnación, casación tras el Real Decreto-ley 5/2023, queja, nulidad de actuaciones, aclaración y complemento de sentencia, y revisión de sentencias firmes. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "civil",
+        "recursos"
+      ]
+    }
+  ]
+}
